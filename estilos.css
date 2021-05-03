@@ -1,0 +1,27 @@
+.img1{
+    width: 75px;
+    height: 75px;
+}
+
+.img2{
+    width: 150px;
+    height: 75px;
+}
+
+.cuadro3{
+    
+    background-color: white;
+}
+
+.indice{
+    margin-left: 80em;
+    color: purple;
+    text-decoration: underline;
+    display: inline-block;
+    text-align: justify;
+
+}
+
+.fondo{
+    background-color: grey;
+}
